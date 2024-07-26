@@ -1,1 +1,1 @@
-This is a sample file. Check conflicts.
+This is a sample file. This file contains all the details.
